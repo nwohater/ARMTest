@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ARMTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d35535f9f683f2824b9973d8422887495d8a327")]
 [assembly: System.Reflection.AssemblyProductAttribute("ARMTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ARMTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
